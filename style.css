@@ -1,0 +1,38 @@
+body{
+    background: rgb(0, 0, 0) url(imagem/fundo.png);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#principal{
+    width: 660.3px;/*largura*/
+    /*height: 100px; altura*/
+}
+#menu{
+    background: #424242;
+    padding: 15px;
+}
+#conteudo{
+    background:#fff ;
+    padding: 5px;
+}
+.direitos{
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+a{
+    color: #f8d6ff;
+    text-decoration: none;/*serve pra tirar as linhas da tag "a" */
+    font-weight: bold;/*serve para negrito*/
+    padding: 10px;
+}
+h1{
+    color: #cfb7c3;
+    text-align: center;
+    font-size: 1.2em;
+}
+#conteudo img{
+    width: 400px;
+    height: 400px;
+    padding: 15px;
+}
